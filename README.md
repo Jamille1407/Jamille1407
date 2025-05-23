@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jamille1407
-- 👀 I’m interested in  compartilhar  os meus avanços, e poder aprender cada vez mais.
-- 🌱 I’m currently learning  Java.
 - I'm a SAP ABAP developer.
 
 <!---
